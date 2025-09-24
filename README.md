@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Front-end`**
 
-- Cusando ADS
-- Em busca do prrimeirar emprego como progamador
-- Estudando Javascript / React
+- Cursando ADS
+- Transformo ideias em protótipos funcionais — foco em web e experiência do usuário.
+- Código limpo, testes e colaboração: buscando minha primeira oportunidade como dev.
 
 ---
 
